@@ -1,2 +1,0 @@
-# berikrentauto
-Location de voiture 
